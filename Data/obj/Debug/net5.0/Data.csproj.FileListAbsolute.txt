@@ -1,0 +1,12 @@
+J:\GitHub\AlgorithmAndDataStructure\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+J:\GitHub\AlgorithmAndDataStructure\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+J:\GitHub\AlgorithmAndDataStructure\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+J:\GitHub\AlgorithmAndDataStructure\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+J:\GitHub\AlgorithmAndDataStructure\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+J:\GitHub\AlgorithmAndDataStructure\Data\bin\Debug\net5.0\Data.deps.json
+J:\GitHub\AlgorithmAndDataStructure\Data\bin\Debug\net5.0\Data.dll
+J:\GitHub\AlgorithmAndDataStructure\Data\bin\Debug\net5.0\ref\Data.dll
+J:\GitHub\AlgorithmAndDataStructure\Data\bin\Debug\net5.0\Data.pdb
+J:\GitHub\AlgorithmAndDataStructure\Data\obj\Debug\net5.0\Data.dll
+J:\GitHub\AlgorithmAndDataStructure\Data\obj\Debug\net5.0\ref\Data.dll
+J:\GitHub\AlgorithmAndDataStructure\Data\obj\Debug\net5.0\Data.pdb
