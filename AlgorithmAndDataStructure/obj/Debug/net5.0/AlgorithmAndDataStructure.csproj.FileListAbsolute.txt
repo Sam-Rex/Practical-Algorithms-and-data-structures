@@ -10,9 +10,6 @@ J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\bin\Debug\net5.0\A
 J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\bin\Debug\net5.0\AlgorithmAndDataStructure.dll
 J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\bin\Debug\net5.0\ref\AlgorithmAndDataStructure.dll
 J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\bin\Debug\net5.0\AlgorithmAndDataStructure.pdb
-J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\bin\Debug\net5.0\Data.dll
-J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\bin\Debug\net5.0\Data.pdb
-J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\obj\Debug\net5.0\AlgorithmAndDataStructure.csproj.CopyComplete
 J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\obj\Debug\net5.0\AlgorithmAndDataStructure.dll
 J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\obj\Debug\net5.0\ref\AlgorithmAndDataStructure.dll
 J:\GitHub\AlgorithmAndDataStructure\AlgorithmAndDataStructure\obj\Debug\net5.0\AlgorithmAndDataStructure.pdb

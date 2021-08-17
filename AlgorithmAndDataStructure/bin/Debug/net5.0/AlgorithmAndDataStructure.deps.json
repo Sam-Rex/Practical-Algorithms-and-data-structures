@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "AlgorithmAndDataStructure/1.0.0": {
-        "dependencies": {
-          "Data": "1.0.0"
-        },
         "runtime": {
           "AlgorithmAndDataStructure.dll": {}
-        }
-      },
-      "Data/1.0.0": {
-        "runtime": {
-          "Data.dll": {}
         }
       }
     }
   },
   "libraries": {
     "AlgorithmAndDataStructure/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

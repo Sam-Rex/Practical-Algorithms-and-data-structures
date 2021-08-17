@@ -1,10 +1,15 @@
-﻿using System;
+﻿using AlgorithmAndDataStructure.Sorting;
+using System;
 using System.Collections.Generic;
 
 namespace AlgorithmAndDataStructure
 {
     class Program
     {
+
+        private static int[] orders = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 };
+
         static void Main(string[] args)
         {
 
@@ -14,7 +19,7 @@ namespace AlgorithmAndDataStructure
             #region BinarySearch
            // BinarySearchExample();
             #endregion 
-            #region BinarySearch
+            #region Selection Sort
             SelectionSortExample();
             #endregion
 
@@ -25,7 +30,8 @@ namespace AlgorithmAndDataStructure
 
         private static void SelectionSortExample()
         {
-            throw new NotImplementedException();
+            SelectionSort selection= new SelectionSort(10);
+            selection.Sort();
         }
 
         public static void LinearSearchExample()
@@ -39,16 +45,8 @@ namespace AlgorithmAndDataStructure
         } 
         public static void BinarySearchExample()
         {
-            int[] orders = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
-                16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 };
- 
-            
             BinarySearch.FindValueViaBinarySearch(orders, 17);
-         
         }
-        public static void SelectionSort()
-        {
-
-        }
+       
     }
 }
