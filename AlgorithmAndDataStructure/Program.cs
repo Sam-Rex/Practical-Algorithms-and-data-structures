@@ -14,18 +14,41 @@ namespace AlgorithmAndDataStructure
         {
 
             #region LinearSearch
-           // LinearSearchExample();
-            #endregion 
+            // LinearSearchExample();
+            #endregion
             #region BinarySearch
-           // BinarySearchExample();
-            #endregion 
+            // BinarySearchExample();
+            #endregion
             #region Selection Sort
-            SelectionSortExample();
+            //SelectionSortExample();
+            #endregion
+            #region Quiq Sort
+            QuiqSortExample();
             #endregion
 
 
             Console.ReadKey();
             
+        }
+
+        private static void QuiqSortExample()
+        {
+            int[] arr = new int[] {  45, 4, 1, -8, 6, 11, 25, 78, 12, -74, 13, 94 };
+            Console.WriteLine("Original Array: ");
+            foreach (var item in arr)
+            {
+                Console.WriteLine(" "+item);
+            }
+            Console.WriteLine();
+            QuiqSort quiqSort = new QuiqSort();
+            quiqSort.Sort(arr, 0, arr.Length - 1);
+            Console.WriteLine();
+            Console.WriteLine("Sorted Array:  ");
+            foreach (var item in arr)
+            {
+                Console.WriteLine(" "+item);
+            }
+            Console.WriteLine();
         }
 
         private static void SelectionSortExample()
