@@ -22,8 +22,8 @@ namespace AlgorithmAndDataStructure
             #region Selection Sort
             //SelectionSortExample();
             #endregion
-            #region Quiq Sort
-            QuiqSortExample();
+            #region Quick Sort
+            QuickSortExample();
             #endregion
 
 
@@ -31,7 +31,7 @@ namespace AlgorithmAndDataStructure
             
         }
 
-        private static void QuiqSortExample()
+        private static void QuickSortExample()
         {
             int[] arr = new int[] {  45, 4, 1, -8, 6, 11, 25, 78, 12, -74, 13, 94 };
             Console.WriteLine("Original Array: ");
@@ -40,8 +40,8 @@ namespace AlgorithmAndDataStructure
                 Console.WriteLine(" "+item);
             }
             Console.WriteLine();
-            QuiqSort quiqSort = new QuiqSort();
-            quiqSort.Sort(arr, 0, arr.Length - 1);
+            QuickSort quickSort = new();
+            quickSort.Sort(arr, 0, arr.Length - 1);
             Console.WriteLine();
             Console.WriteLine("Sorted Array:  ");
             foreach (var item in arr)
